@@ -1,0 +1,27 @@
+*{
+    align-items: cnter;
+}
+span{
+    display: block;
+}
+
+table{
+    border: 1px solid black;
+}
+
+td{
+    border: 1px solid black;
+    text-align: start;
+}
+
+h1{
+    font-weight:300;
+}
+
+h2{
+    font-weight:300;
+}
+box{
+    margin-left: auto;
+    margin-right>: auto;
+}
